@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+ENV/
+.env
+.env.local
+.env.*.local
+
+# Database
+databasebytraining.db
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs and cache
+logs/
+cache/
+*.log
+
+# Environment variables (keep .env.example)
+.env
